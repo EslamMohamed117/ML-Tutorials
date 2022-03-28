@@ -18,17 +18,15 @@
 <br/>
 [![jimmy][jimmy]][jimmy-url]
 <br/>
-[![hussien][hussien]][hussein-url]
+[![hussein][hussein]][hussein-url]
 <br/>
 [![merna][merna]][merna-url]
-<br/>
-[![sarasaeed][sarasaeed]][sarasaeed-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [eslam]: https://img.shields.io/badge/Contributor-Eslam%20Mohamed-blue
 [eslam-url]: https://github.com/xS4yk0x
-[omar]: https://img.shields.io/badge/Contributor-Asmaa%20Khaled-blue
-[omar-url]: https://github.com/Asmaakhaled8
+[asmaa]: https://img.shields.io/badge/Contributor-Asmaa%20Khaled-blue
+[asmaa-url]: https://github.com/Asmaakhaled8
 [jimmy]: https://img.shields.io/badge/Contributor-Ahmed%20Gamal-blue
 [jimmy-url]: https://github.com/GReeDYBOY1
 [hussein]: https://img.shields.io/badge/Contributor-Hussein%20Medhat-blue
