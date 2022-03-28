@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">ML-Tutorials</h3>
+<h3 align="center">ML-Tutorials : Group 1</h3>
     <br />
     <br />
   </p>
