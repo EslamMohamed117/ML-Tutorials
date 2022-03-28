@@ -16,9 +16,9 @@
 <br/>
 [![asmaa][asmaa]][asmaa-url]
 <br/>
-[![jimmy][jimmy]][jimmy-url]
-<br/>
 [![hussein][hussein]][hussein-url]
+<br/>
+[![jimmy][jimmy]][jimmy-url]
 <br/>
 [![merna][merna]][merna-url]
 
